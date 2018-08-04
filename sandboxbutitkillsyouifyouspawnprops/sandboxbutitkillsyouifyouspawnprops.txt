@@ -1,0 +1,6 @@
+"sandboxbutitkillsyouifyouspawnprops"
+{
+	"base"		"sandbox"
+	"title"		"Sandbox but it kills you if you spawn props"
+	"menusystem"	"1"		
+}
